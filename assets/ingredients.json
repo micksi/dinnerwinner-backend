@@ -1,0 +1,2278 @@
+[
+  {
+    "Id": 3123,
+    "Header": "Agurk",
+    "ImgPath": "/media/1006/agurk_12.jpg",
+    "Url": "/frugtgroent/agurk/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2884,
+    "Header": "Alexander Lukas",
+    "ImgPath": "/media/1011/paerer_alexander_lukas.jpg",
+    "Url": "/frugtgroent/alexander-lukas/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2809,
+    "Header": "Althans Reine Claude",
+    "ImgPath": "/media/1012/blomme_althans_1.jpg",
+    "Url": "/frugtgroent/althans-reine-claude/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2880,
+    "Header": "Asparges, grønne",
+    "ImgPath": "/media/1007/asparges_11.jpg",
+    "Url": "/frugtgroent/asparges-groenne/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661
+    ]
+  },
+  {
+    "Id": 3071,
+    "Header": "Asparges, hvide",
+    "ImgPath": "/media/1008/hvide-asparges_2.jpg",
+    "Url": "/frugtgroent/asparges-hvide/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661
+    ]
+  },
+  {
+    "Id": 2727,
+    "Header": "Babyleave, grøn",
+    "ImgPath": "/media/1009/groen-babyleaves.jpg",
+    "Url": "/frugtgroent/babyleave-groen/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2975,
+    "Header": "Babyleave, rød",
+    "ImgPath": "/media/1010/roed-babyleaves.jpg",
+    "Url": "/frugtgroent/babyleave-roed/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2944,
+    "Header": "Babyspinat",
+    "ImgPath": "/media/1157/babyspinat_1.jpg",
+    "Url": "/frugtgroent/babyspinat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2601,
+    "Header": "Basilikum, grøn",
+    "ImgPath": "/media/1013/basilikum_1.jpg",
+    "Url": "/frugtgroent/basilikum-groen/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2630,
+    "Header": "Basilikum, rød",
+    "ImgPath": "/media/1014/basilikum_8.jpg",
+    "Url": "/frugtgroent/basilikum-roed/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2675,
+    "Header": "Beder, farvet",
+    "ImgPath": "/media/2373/farvede_beder-1.jpg",
+    "Url": "/frugtgroent/beder-farvet/",
+    "Type": null,
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 3101,
+    "Header": "Belida",
+    "ImgPath": "/media/1880/belida_low.jpg",
+    "Url": "/frugtgroent/belida/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607
+    ]
+  },
+  {
+    "Id": 2566,
+    "Header": "Belle de Boskoop",
+    "ImgPath": "/media/1022/aeble_belle-de-boskoop_frit.jpg",
+    "Url": "/frugtgroent/belle-de-boskoop/",
+    "Type": "Fruit",
+    "Seasons": [
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2790,
+    "Header": "Bladbede",
+    "ImgPath": "/media/1015/bladbede_1.jpg",
+    "Url": "/frugtgroent/bladbede/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 2582,
+    "Header": "Bladselleri",
+    "ImgPath": "/media/1017/bladselleri_3.jpg",
+    "Url": "/frugtgroent/bladselleri/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2578,
+    "Header": "Blomkål",
+    "ImgPath": "/media/1018/blomkaal.jpg",
+    "Url": "/frugtgroent/blomkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2747,
+    "Header": "Blommer",
+    "ImgPath": "/media/1028/blomme_noire_5.jpg",
+    "Url": "/frugtgroent/blommer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 3006,
+    "Header": "Blommetomat",
+    "ImgPath": "/media/1019/blommetomat_1.jpg",
+    "Url": "/frugtgroent/blommetomat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2780,
+    "Header": "Blåbær",
+    "ImgPath": "/media/1025/bla-baer_1.jpg",
+    "Url": "/frugtgroent/blaabaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2614,
+    "Header": "Bredbladet persille",
+    "ImgPath": "/media/1021/bredbladet-persille_1.jpg",
+    "Url": "/frugtgroent/bredbladet-persille/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2583,
+    "Header": "Broccoli",
+    "ImgPath": "/media/1023/broccoli_1.jpg",
+    "Url": "/frugtgroent/broccoli/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2909,
+    "Header": "Brombær",
+    "ImgPath": "/media/2176/brombaer_1.jpg",
+    "Url": "/frugtgroent/brombaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2885,
+    "Header": "Brøndkarse",
+    "ImgPath": "/media/1024/broendkarse_1.jpg",
+    "Url": "/frugtgroent/broendkarse/",
+    "Type": null,
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3079,
+    "Header": "Bulls blood",
+    "ImgPath": "/media/1026/babyleaves-bulls-blood_hi.jpg",
+    "Url": "/frugtgroent/bulls-blood/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2995,
+    "Header": "Bøftomat",
+    "ImgPath": "/media/1027/boeftomat_1.jpg",
+    "Url": "/frugtgroent/boeftomat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3044,
+    "Header": "Bøgehat",
+    "ImgPath": "/media/1029/boegehat_1.jpg",
+    "Url": "/frugtgroent/boegehat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3090,
+    "Header": "Bønner, grønne",
+    "ImgPath": "/media/1030/groenne-boenner_1.jpg",
+    "Url": "/frugtgroent/boenner-groenne/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2977,
+    "Header": "Bønner, hvide",
+    "ImgPath": "/media/1031/hvide-boenner_2.jpg",
+    "Url": "/frugtgroent/boenner-hvide/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 2811,
+    "Header": "Champignon",
+    "ImgPath": "/media/1039/champignon_2.jpg",
+    "Url": "/frugtgroent/champignon/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2973,
+    "Header": "Champignon, Brun",
+    "ImgPath": "/media/2371/champignon_13.jpg",
+    "Url": "/frugtgroent/champignon-brun/",
+    "Type": null,
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2741,
+    "Header": "Cherrytomat",
+    "ImgPath": "/media/1040/cherrytomater_18.jpg",
+    "Url": "/frugtgroent/cherrytomat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3111,
+    "Header": "Chili",
+    "ImgPath": "/media/2370/chili.jpg",
+    "Url": "/frugtgroent/chili/",
+    "Type": "Fruit",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2879,
+    "Header": "Citronmelisse",
+    "ImgPath": "/media/1041/citronmelisse_1.jpg",
+    "Url": "/frugtgroent/citronmelisse/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2934,
+    "Header": "Clara Friis",
+    "ImgPath": "/media/2419/paerer_clara_friis_1_3744x2766.jpg",
+    "Url": "/frugtgroent/clara-friis/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2724,
+    "Header": "Cocktailtomat",
+    "ImgPath": "/media/1042/cocktailtomater_17.jpg",
+    "Url": "/frugtgroent/cocktailtomat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3060,
+    "Header": "Concorde",
+    "ImgPath": "/media/1034/paerer_concorde.jpg",
+    "Url": "/frugtgroent/concorde/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2785,
+    "Header": "Conference",
+    "ImgPath": "/media/1036/paerer_conference.jpg",
+    "Url": "/frugtgroent/conference/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3105,
+    "Header": "Cox la Vera",
+    "ImgPath": "/media/1037/aeble_cox-la-vera.jpg",
+    "Url": "/frugtgroent/cox-la-vera/",
+    "Type": "Fruit",
+    "Seasons": [
+      2651
+    ]
+  },
+  {
+    "Id": 2550,
+    "Header": "Cox Orange",
+    "ImgPath": "/media/1038/aeble_cox-orange.jpg",
+    "Url": "/frugtgroent/cox-orange/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2600,
+    "Header": "Dild",
+    "ImgPath": "/media/1043/dild_1.jpg",
+    "Url": "/frugtgroent/dild/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2621,
+    "Header": "Discovery",
+    "ImgPath": "/media/1045/aeble_discovery.jpg",
+    "Url": "/frugtgroent/discovery/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 3084,
+    "Header": "Drueagurk",
+    "ImgPath": "/media/1044/drueagurk_1.jpg",
+    "Url": "/frugtgroent/drueagurk/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2845,
+    "Header": "Egebladsalat, grøn",
+    "ImgPath": "/media/1046/egeblad_1.jpg",
+    "Url": "/frugtgroent/egebladsalat-groen/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3023,
+    "Header": "Egebladsalat, rød",
+    "ImgPath": "/media/1048/roed_egeblad.jpg",
+    "Url": "/frugtgroent/egebladsalat-roed/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2669,
+    "Header": "Elstar",
+    "ImgPath": "/media/1047/aeble_elstar.jpg",
+    "Url": "/frugtgroent/elstar/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607
+    ]
+  },
+  {
+    "Id": 2733,
+    "Header": "Enoki",
+    "ImgPath": "/media/1049/enoki_1.jpg",
+    "Url": "/frugtgroent/enoki/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2610,
+    "Header": "Estragon",
+    "ImgPath": "/media/1050/estragon_2.jpg",
+    "Url": "/frugtgroent/estragon/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3107,
+    "Header": "Excalibur",
+    "ImgPath": "/media/1051/blomme_excalibur.jpg",
+    "Url": "/frugtgroent/excalibur/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2806,
+    "Header": "Feldsalat",
+    "ImgPath": "/media/1059/feldsalat_1.jpg",
+    "Url": "/frugtgroent/feldsalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2572,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2899,
+    "Header": "Fennikel",
+    "ImgPath": "/media/1054/fennikel.jpg",
+    "Url": "/frugtgroent/fennikel/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2913,
+    "Header": "Forårsløg",
+    "ImgPath": "/media/1882/foraarsloeg_low.jpg",
+    "Url": "/frugtgroent/foraarsloeg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2851,
+    "Header": "Frillice/ærtesalat",
+    "ImgPath": "/media/1058/frillicesalat_1.jpg",
+    "Url": "/frugtgroent/frilliceaertesalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2966,
+    "Header": "Friseesalat",
+    "ImgPath": "/media/1312/friseesalat_1.jpg",
+    "Url": "/frugtgroent/friseesalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2677,
+    "Header": "Gala Must",
+    "ImgPath": "/media/2206/aeble-gala-must.jpg",
+    "Url": "/frugtgroent/gala-must/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572
+    ]
+  },
+  {
+    "Id": 2796,
+    "Header": "Glaskål",
+    "ImgPath": "/media/1060/glaskaal_1.jpg",
+    "Url": "/frugtgroent/glaskaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2653,
+      2572,
+      2651,
+      2580,
+      2658
+    ]
+  },
+  {
+    "Id": 2634,
+    "Header": "Grønkål",
+    "ImgPath": "/media/1062/groenkaal_3.jpg",
+    "Url": "/frugtgroent/groenkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 2635,
+    "Header": "Guldborg",
+    "ImgPath": "/media/1055/aeble_guldborg.jpg",
+    "Url": "/frugtgroent/guldborg/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2838,
+    "Header": "Gulerod, farvet",
+    "ImgPath": "/media/2372/farvede_guleroedder.jpg",
+    "Url": "/frugtgroent/gulerod-farvet/",
+    "Type": null,
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564,
+      2598
+    ]
+  },
+  {
+    "Id": 2631,
+    "Header": "Gulerødder",
+    "ImgPath": "/media/1063/guleroedder_1.jpg",
+    "Url": "/frugtgroent/guleroedder/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564,
+      2598
+    ]
+  },
+  {
+    "Id": 2751,
+    "Header": "Hindbær",
+    "ImgPath": "/media/1056/hindbaer_7.jpg",
+    "Url": "/frugtgroent/hindbaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2901,
+    "Header": "Hjertesalat",
+    "ImgPath": "/media/1064/hjerteblad_1.jpg",
+    "Url": "/frugtgroent/hjertesalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2877,
+    "Header": "Hokkaido",
+    "ImgPath": "/media/1899/hokkaido_21_low.jpg",
+    "Url": "/frugtgroent/hokkaido/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2557,
+    "Header": "Holsteiner Cox",
+    "ImgPath": "/media/1057/aeble_holsteiner-cox_frit.jpg",
+    "Url": "/frugtgroent/holsteiner-cox/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3099,
+    "Header": "Hovedsalat",
+    "ImgPath": "/media/1067/hovedsalat_2.jpg",
+    "Url": "/frugtgroent/hovedsalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2654,
+    "Header": "Hvidkål",
+    "ImgPath": "/media/1068/hvidkaal_1.jpg",
+    "Url": "/frugtgroent/hvidkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 3015,
+    "Header": "Iceberg",
+    "ImgPath": "/media/1069/iceberg_6.jpg",
+    "Url": "/frugtgroent/iceberg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2881,
+    "Header": "Ive",
+    "ImgPath": "/media/1065/blomme_ive.jpg",
+    "Url": "/frugtgroent/ive/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2573,
+    "Header": "Jonagold",
+    "ImgPath": "/media/1073/aeble_jonagold.jpg",
+    "Url": "/frugtgroent/jonagold/",
+    "Type": "Fruit",
+    "Seasons": [
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 3074,
+    "Header": "Jordbær",
+    "ImgPath": "/media/1076/jordbaer_3.jpg",
+    "Url": "/frugtgroent/jordbaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2661,
+      2633
+    ]
+  },
+  {
+    "Id": 2657,
+    "Header": "Jordskokker",
+    "ImgPath": "/media/1070/jordskokker_1.jpg",
+    "Url": "/frugtgroent/jordskokker/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 2863,
+    "Header": "Jubileum",
+    "ImgPath": "/media/1080/blomme_jubilaeum.jpg",
+    "Url": "/frugtgroent/jubileum/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602
+    ]
+  },
+  {
+    "Id": 2925,
+    "Header": "Junami",
+    "ImgPath": "/media/1879/junami-1_low.jpg",
+    "Url": "/frugtgroent/junami/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 2850,
+    "Header": "Kejserhat",
+    "ImgPath": "/media/1071/kejserhat_1.jpg",
+    "Url": "/frugtgroent/kejserhat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3056,
+    "Header": "Kinakål",
+    "ImgPath": "/media/1072/kinakaal_5.jpg",
+    "Url": "/frugtgroent/kinakaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3042,
+    "Header": "Kirkes",
+    "ImgPath": "/media/1095/blomme_kirkes_4.jpg",
+    "Url": "/frugtgroent/kirkes/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 3128,
+    "Header": "Kirsebær",
+    "ImgPath": "/media/1101/kirsebaer_8.jpg",
+    "Url": "/frugtgroent/kirsebaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2579,
+    "Header": "Knoldselleri",
+    "ImgPath": "/media/1074/knoldselleri_4.jpg",
+    "Url": "/frugtgroent/knoldselleri/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658
+    ]
+  },
+  {
+    "Id": 2652,
+    "Header": "Koriander",
+    "ImgPath": "/media/1075/koriander_1.jpg",
+    "Url": "/frugtgroent/koriander/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2861,
+    "Header": "Krølsalat",
+    "ImgPath": "/media/1078/kroelsalat.jpg",
+    "Url": "/frugtgroent/kroelsalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2828,
+    "Header": "Kørvel",
+    "ImgPath": "/media/1079/koervel_2.jpg",
+    "Url": "/frugtgroent/koervel/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3008,
+    "Header": "Lollo Bionda",
+    "ImgPath": "/media/1081/lollo-bionda_8.jpg",
+    "Url": "/frugtgroent/lollo-bionda/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3096,
+    "Header": "Lollo Rossa",
+    "ImgPath": "/media/1082/lollo-rosa_7.jpg",
+    "Url": "/frugtgroent/lollo-rossa/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2592,
+    "Header": "Løg",
+    "ImgPath": "/media/1083/loeg_1.jpg",
+    "Url": "/frugtgroent/loeg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3120,
+    "Header": "Løg med top",
+    "ImgPath": "/media/1084/loeg_17.jpg",
+    "Url": "/frugtgroent/loeg-med-top/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 3075,
+    "Header": "Majroe",
+    "ImgPath": "/media/1085/majroe_1.jpg",
+    "Url": "/frugtgroent/majroe/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 2882,
+    "Header": "Majs",
+    "ImgPath": "/media/1900/majs_2_low.jpg",
+    "Url": "/frugtgroent/majs/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2763,
+    "Header": "Mangold, rød",
+    "ImgPath": "/media/1087/mangold_1.jpg",
+    "Url": "/frugtgroent/mangold-roed/",
+    "Type": null,
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 3125,
+    "Header": "Merian",
+    "ImgPath": "/media/1088/merian_2.jpg",
+    "Url": "/frugtgroent/merian/",
+    "Type": null,
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2830,
+    "Header": "Minigrønkål",
+    "ImgPath": "/media/1893/groenkaal-2_low.jpg",
+    "Url": "/frugtgroent/minigroenkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 3091,
+    "Header": "Mizuna",
+    "ImgPath": "/media/1090/mizuna.jpg",
+    "Url": "/frugtgroent/mizuna/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2619,
+    "Header": "Mynte",
+    "ImgPath": "/media/1092/mynte.jpg",
+    "Url": "/frugtgroent/mynte/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2930,
+    "Header": "Netmelon",
+    "ImgPath": "/media/1093/netmelon_1.jpg",
+    "Url": "/frugtgroent/netmelon/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2947,
+    "Header": "Opal",
+    "ImgPath": "/media/1107/blomme_opal_2.jpg",
+    "Url": "/frugtgroent/opal/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602
+    ]
+  },
+  {
+    "Id": 2626,
+    "Header": "Oregano",
+    "ImgPath": "/media/1094/oregano_1.jpg",
+    "Url": "/frugtgroent/oregano/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3085,
+    "Header": "Pak Choy",
+    "ImgPath": "/media/1096/pakchoy_1.jpg",
+    "Url": "/frugtgroent/pak-choy/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2667,
+    "Header": "Pastinak",
+    "ImgPath": "/media/1097/pastinak_2.jpg",
+    "Url": "/frugtgroent/pastinak/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 2670,
+    "Header": "Peberfrugt",
+    "ImgPath": "/media/1098/groenpeber_2.jpg",
+    "Url": "/frugtgroent/peberfrugt/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2613,
+    "Header": "Peberrod",
+    "ImgPath": "/media/1099/peberrod_1.jpg",
+    "Url": "/frugtgroent/peberrod/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2637,
+    "Header": "Persille",
+    "ImgPath": "/media/1100/persille_3.jpg",
+    "Url": "/frugtgroent/persille/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2577,
+    "Header": "Persillerod",
+    "ImgPath": "/media/1102/persillerod_2.jpg",
+    "Url": "/frugtgroent/persillerod/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607
+    ]
+  },
+  {
+    "Id": 2674,
+    "Header": "Pigeon",
+    "ImgPath": "/media/1109/aeble_pigeon.jpg",
+    "Url": "/frugtgroent/pigeon/",
+    "Type": "Fruit",
+    "Seasons": [
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2650,
+    "Header": "Porre",
+    "ImgPath": "/media/1103/porre_1.jpg",
+    "Url": "/frugtgroent/porre/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633
+    ]
+  },
+  {
+    "Id": 3066,
+    "Header": "Portobello",
+    "ImgPath": "/media/1104/portobello.jpg",
+    "Url": "/frugtgroent/portobello/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2625,
+    "Header": "Purløg",
+    "ImgPath": "/media/1105/purloeg_3.jpg",
+    "Url": "/frugtgroent/purloeg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2805,
+    "Header": "Pyntegræskar",
+    "ImgPath": "/media/1061/graeskar_1.jpg",
+    "Url": "/frugtgroent/pyntegraeskar/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3033,
+    "Header": "Pærer",
+    "ImgPath": "/media/1011/paerer_alexander_lukas.jpg",
+    "Url": "/frugtgroent/paerer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2744,
+    "Header": "Rabarber",
+    "ImgPath": "/media/1898/istock_000016202773large_low.jpg",
+    "Url": "/frugtgroent/rabarber/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2908,
+    "Header": "Radiser",
+    "ImgPath": "/media/1110/radisser_1.jpg",
+    "Url": "/frugtgroent/radiser/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 3104,
+    "Header": "Reine Claude Noir",
+    "ImgPath": "/media/1095/blomme_kirkes_4.jpg",
+    "Url": "/frugtgroent/reine-claude-noir/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 3109,
+    "Header": "Ribs",
+    "ImgPath": "/media/1895/ribs30_low.jpg",
+    "Url": "/frugtgroent/ribs/",
+    "Type": "Fruit",
+    "Seasons": [
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 3035,
+    "Header": "Romainesalat",
+    "ImgPath": "/media/1112/romaine_1.jpg",
+    "Url": "/frugtgroent/romainesalat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2656,
+    "Header": "Rosenkål",
+    "ImgPath": "/media/1113/rosenkaal_2.jpg",
+    "Url": "/frugtgroent/rosenkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 2603,
+    "Header": "Rosmarin",
+    "ImgPath": "/media/1115/rosmarin.jpg",
+    "Url": "/frugtgroent/rosmarin/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2616,
+    "Header": "Rubens",
+    "ImgPath": "/media/1122/aeble_rubens_frit.jpg",
+    "Url": "/frugtgroent/rubens/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 2953,
+    "Header": "Rubinola",
+    "ImgPath": "/media/1125/aeble_rubinola.jpg",
+    "Url": "/frugtgroent/rubinola/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2916,
+    "Header": "Rucola",
+    "ImgPath": "/media/1116/rucola_3.jpg",
+    "Url": "/frugtgroent/rucola/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2852,
+    "Header": "Russisk estragon",
+    "ImgPath": "/media/1050/estragon_2.jpg",
+    "Url": "/frugtgroent/russisk-estragon/",
+    "Type": null,
+    "Seasons": [
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2664,
+    "Header": "Rød Aroma",
+    "ImgPath": "/media/1128/aeble_roed-aroma.jpg",
+    "Url": "/frugtgroent/roed-aroma/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2575,
+    "Header": "Rød Gråsten",
+    "ImgPath": "/media/1131/aeble_gra-sten.jpg",
+    "Url": "/frugtgroent/roed-graasten/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2645,
+    "Header": "Rød Ingrid Marie",
+    "ImgPath": "/media/1138/aeble_ingrid-marie_frit.jpg",
+    "Url": "/frugtgroent/roed-ingrid-marie/",
+    "Type": "Fruit",
+    "Seasons": [
+      2572,
+      2580,
+      2651
+    ]
+  },
+  {
+    "Id": 2588,
+    "Header": "Rødbede",
+    "ImgPath": "/media/1118/roedbeder_10.jpg",
+    "Url": "/frugtgroent/roedbede/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 2599,
+    "Header": "Rødkål",
+    "ImgPath": "/media/1119/roedkaal_6.jpg",
+    "Url": "/frugtgroent/roedkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552
+    ]
+  },
+  {
+    "Id": 2562,
+    "Header": "Rødløg",
+    "ImgPath": "/media/1121/loeg_15.jpg",
+    "Url": "/frugtgroent/roedloeg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 3009,
+    "Header": "Salvie",
+    "ImgPath": "/media/1126/salvie.jpg",
+    "Url": "/frugtgroent/salvie/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2755,
+    "Header": "Savoykål",
+    "ImgPath": "/media/1127/savoykaal_3.jpg",
+    "Url": "/frugtgroent/savoykaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2870,
+    "Header": "Sennep, rød",
+    "ImgPath": "/media/1129/senep_1.jpg",
+    "Url": "/frugtgroent/sennep-roed/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 3027,
+    "Header": "Shii-take",
+    "ImgPath": "/media/1130/shii-take_1.jpg",
+    "Url": "/frugtgroent/shii-take/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2580,
+      2658
+    ]
+  },
+  {
+    "Id": 3068,
+    "Header": "Skalotteløg",
+    "ImgPath": "/media/1132/skalotteloeg_1.jpg",
+    "Url": "/frugtgroent/skalotteloeg/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2651,
+      2572,
+      2580
+    ]
+  },
+  {
+    "Id": 2783,
+    "Header": "Skoleagurk",
+    "ImgPath": "/media/1133/skoleagurk_1.jpg",
+    "Url": "/frugtgroent/skoleagurk/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2754,
+    "Header": "Skorzonerrod",
+    "ImgPath": "/media/1134/skorzonerrod_1.jpg",
+    "Url": "/frugtgroent/skorzonerrod/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2876,
+    "Header": "Skærmdild",
+    "ImgPath": "/media/1135/skaermdild_1.jpg",
+    "Url": "/frugtgroent/skaermdild/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2962,
+    "Header": "Solbær",
+    "ImgPath": "/media/1140/solbaer_2.jpg",
+    "Url": "/frugtgroent/solbaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 3019,
+    "Header": "Sommerhvidkål",
+    "ImgPath": "/media/1136/sommerhvidkaal_1.jpg",
+    "Url": "/frugtgroent/sommerhvidkaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 2942,
+    "Header": "Spidskål",
+    "ImgPath": "/media/1137/spidskaal.jpg",
+    "Url": "/frugtgroent/spidskaal/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 3054,
+    "Header": "Spinat",
+    "ImgPath": "/media/1139/spinat_3.jpg",
+    "Url": "/frugtgroent/spinat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2872,
+    "Header": "Spirer",
+    "ImgPath": "/media/1141/spirer_1.jpg",
+    "Url": "/frugtgroent/spirer/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2803,
+    "Header": "Squash",
+    "ImgPath": "/media/1142/squash_1.jpg",
+    "Url": "/frugtgroent/squash/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2633,
+      2602,
+      2653,
+      2572
+    ]
+  },
+  {
+    "Id": 2794,
+    "Header": "Stikkelsbær",
+    "ImgPath": "/media/1144/stikkelsbaer_2.jpg",
+    "Url": "/frugtgroent/stikkelsbaer/",
+    "Type": "Fruit",
+    "Seasons": [
+      2661,
+      2633
+    ]
+  },
+  {
+    "Id": 2932,
+    "Header": "Sukkerærter",
+    "ImgPath": "/media/1143/sukkeraerter_1.jpg",
+    "Url": "/frugtgroent/sukkeraerter/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 2950,
+    "Header": "Summerred",
+    "ImgPath": "/media/1145/aeble_summerred.jpg",
+    "Url": "/frugtgroent/summerred/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2585,
+    "Header": "Sunrise",
+    "ImgPath": "/media/1150/aeble_sunrise_frit.jpg",
+    "Url": "/frugtgroent/sunrise/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2812,
+    "Header": "Timian",
+    "ImgPath": "/media/1147/timian.jpg",
+    "Url": "/frugtgroent/timian/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  },
+  {
+    "Id": 2576,
+    "Header": "Tomat",
+    "ImgPath": "/media/1153/tomater_alle-sorter.jpg",
+    "Url": "/frugtgroent/tomat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2960,
+    "Header": "Tomat, rund",
+    "ImgPath": "/media/1149/rundetomater_hi.jpg",
+    "Url": "/frugtgroent/tomat-rund/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651
+    ]
+  },
+  {
+    "Id": 2840,
+    "Header": "Valor",
+    "ImgPath": "/media/1152/blomme_valor.jpg",
+    "Url": "/frugtgroent/valor/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2813,
+    "Header": "Victoria",
+    "ImgPath": "/media/1154/blomme_victoria_3.jpg",
+    "Url": "/frugtgroent/victoria/",
+    "Type": "Fruit",
+    "Seasons": [
+      2653
+    ]
+  },
+  {
+    "Id": 2609,
+    "Header": "Æbler",
+    "ImgPath": "/media/2178/aebler_24.jpg",
+    "Url": "/frugtgroent/æbler/",
+    "Type": "Fruit",
+    "Seasons": [
+      2602,
+      2653,
+      2572,
+      2651,
+      2580,
+      2658,
+      2552,
+      2607,
+      2564
+    ]
+  },
+  {
+    "Id": 2589,
+    "Header": "Ærter",
+    "ImgPath": "/media/1151/aerter_2.jpg",
+    "Url": "/frugtgroent/ærter/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602
+    ]
+  },
+  {
+    "Id": 3124,
+    "Header": "Ærteskud",
+    "ImgPath": "/media/3111/aerteskud_01.jpg",
+    "Url": "/frugtgroent/ærteskud/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2661,
+      2633,
+      2602,
+      2653
+    ]
+  },
+  {
+    "Id": 2928,
+    "Header": "Østershat",
+    "ImgPath": "/media/1156/oestershat_1.jpg",
+    "Url": "/frugtgroent/østershat/",
+    "Type": "Vegetable",
+    "Seasons": [
+      2658,
+      2552,
+      2607,
+      2564,
+      2598,
+      2661,
+      2633,
+      2602,
+      2653,
+      2572,
+      2651,
+      2580
+    ]
+  }
+]
