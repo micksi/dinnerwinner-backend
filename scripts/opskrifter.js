@@ -5,7 +5,7 @@
  */
 const fs = require('fs')
 
-const str = fs.readFileSync('./opskrifter.json', { encoding: 'utf8' });
+const str = fs.readFileSync('./../src/assets/opskrifter.json', { encoding: 'utf8' });
 const bundle = JSON.parse(str)
 const recipes = bundle.Recipes
 
@@ -25,7 +25,7 @@ allIngredients.forEach(t => { keywordCount[t] = keywordCount[t] + 1 })
 
 // ######################################################################
 
-const strs = fs.readFileSync('./ingredients.json', { encoding: 'utf8' });
+const strs = fs.readFileSync('./../src/assets/ingredients.json', { encoding: 'utf8' });
 const ingredients = JSON.parse(strs)
 
 Object.keys(keywordCount)
