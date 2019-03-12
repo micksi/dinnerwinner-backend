@@ -34,6 +34,7 @@ export default class TestRoute {
   }
 
   private test(request: Request, response: Response) {
+    console.log("23456")
     response.status(404).json({ text: "hello" })
 
 

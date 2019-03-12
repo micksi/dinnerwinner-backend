@@ -11,6 +11,7 @@ class TestRoute {
             .get(this.test.bind(this));
     }
     test(request, response) {
+        console.log("23456");
         response.status(404).json({ text: "hello" });
     }
 }
