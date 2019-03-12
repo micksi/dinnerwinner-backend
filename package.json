@@ -1,0 +1,37 @@
+{
+  "name": "dinnerwinner-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/app.js",
+  "scripts": {
+    "serve": "concurrently --kill-others \"tsc -w\" \"nodemon build/app.js\"",
+    "test": "test",
+    "tsc": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micksi/dinnerwinner-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micksi/dinnerwinner-backend/issues"
+  },
+  "homepage": "https://github.com/micksi/dinnerwinner-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "lodash": "^4.17.11",
+    "module-alias": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "@types/lodash": "^4.14.119",
+    "@types/node": "^11.11.1",
+    "concurrently": "^4.1.0",
+    "jest": "^23.6.0",
+    "nodemon": "^1.18.7",
+    "ts-jest": "^23.10.5",
+    "tslint": "^5.11.0",
+    "typescript": "^3.3.3"
+  }
+}
